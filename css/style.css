@@ -1,0 +1,59 @@
+/* Custom CSS */
+
+@media only screen and (max-width: 992px) {
+  #logo {
+  visibility: hidden;
+  }
+}
+
+a {
+  font-family: 'Bebas Neue', sans-serif;        
+}
+
+a:hover {
+  color: #000000;        
+}
+
+a.text {
+  font-family: 'Playfair Display', serif;      
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+  color: #000;
+}
+
+footer {
+  background-color: #000000;
+}
+
+.bg-dark {
+  background-color: #000000 !important;
+}
+
+.brand-logo {
+  max-height: 285px;
+  max-width: 285px;
+  min-height: 140px;
+  min-width: 140px;
+}
+
+.font-bebas {
+  font-family: 'Bebas Neue', sans-serif;         
+}
+
+.hero-image {
+  background-image: url("../images/hero-img.jpg")!important;
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.navbar-nav {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.2em;       
+}
+
+
